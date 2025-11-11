@@ -1,0 +1,9 @@
+[meta]
+name     = "Force Skins On"
+author   = "XertroV"
+category = "Patches"
+version  = "1.0.0"
+
+[script]
+#__DEFINES__
+# dependencies = ["MLHook", "MLFeedRaceData"]
